@@ -1,5 +1,5 @@
 {
-  "name": "Kestrel",
-  "symbol": "KTL",
-  "uri": "" 
-}
+    "name": "Kestrel",
+    "symbol": "KTL",
+    "description": "Kestrel Token",
+    "image": "https://raw.githubusercontent.com/kishanbhashyam/Kestrel/main/logo.png"
